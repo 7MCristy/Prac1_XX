@@ -24,3 +24,5 @@ https://www.youtube.com/watch?v=AfDfmsh8OGo&ab_channel=dieguiariel
 
 l’opció -c en la crida del
 programari del client seguida del nom de l’arxiu de configuració (-c <nom_arxiu>)
+
+https://www.youtube.com/watch?v=_U8denEudyc&ab_channel=ProfeHugo%28Tutoriales%29
