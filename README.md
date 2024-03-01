@@ -17,3 +17,7 @@ No obstant aquesta opció només serveix per al moment de la reproducció del su
 S'ha de tenir en compte que per no modificar ports ja utilitzats per defecte en la configuració base, utilitzem part el més allunyats possibles als primers 4000.
 Els ports amb més probabilitata d'estar buits son a partir del 5000.
 
+Apartados en tcp cliente servidor en python
+https://www.youtube.com/watch?v=AU7nNGTqKT0&ab_channel=LuisMunoz
+servidor en c 
+https://www.youtube.com/watch?v=AfDfmsh8OGo&ab_channel=dieguiariel
