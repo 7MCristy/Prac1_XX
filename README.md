@@ -21,3 +21,6 @@ Apartados en tcp cliente servidor en python
 https://www.youtube.com/watch?v=AU7nNGTqKT0&ab_channel=LuisMunoz
 servidor en c 
 https://www.youtube.com/watch?v=AfDfmsh8OGo&ab_channel=dieguiariel
+
+l’opció -c en la crida del
+programari del client seguida del nom de l’arxiu de configuració (-c <nom_arxiu>)
